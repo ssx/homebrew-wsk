@@ -9,7 +9,7 @@ class Wsk < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<-EOS
       Until OpenWhisk project does not provide an official version for the CLI tools,
       to upgrade we must uninstall/install the formula:
 
