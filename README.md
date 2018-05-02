@@ -3,7 +3,7 @@
 Official OpenWhisk documentation is [here](https://console.ng.bluemix.net/openwhisk/cli). To install `wsk` command line tool using [Homebrew](http://brew.sh/), simply run:
 
 ```bash
-brew install shaftoe/wsk/wsk
+brew install ssx/wsk/wsk
 ```
 
 ## Caveats
@@ -11,7 +11,7 @@ brew install shaftoe/wsk/wsk
 No official version number is available at the moment, so the only supported way to upgrade via `homebrew` is to uninstall/install the formula.
 
 ```bash
-brew uninstall shaftoe/wsk/wsk && brew cleanup shaftoe/wsk/wsk && brew install shaftoe/wsk/wsk
+brew uninstall ssx/wsk/wsk && brew cleanup ssx/wsk/wsk && brew install ssx/wsk/wsk
 ```
 
 ## Upstream
